@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Electrical Engineering and Information Systems, The University of Tokyo, 2027 (expected)
+* M.Eng. in Electrical Engineering and Information Systems, The University of Tokyo, 2024
+* B.Eng. in Electronic Science and Technology, Beijing University of Technology, 2020
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Presentations at International Conferences
+
+* Yang, Z., Wang, W., Chen, Z., Fan, Q., & Chen, X. (2020, October). LSTM-RNN based analog IC automated sizing model for operational amplifier and VCO. In 2020 IEEE 5th International Conference on Integrated Circuits and Microsystems (ICICM) (pp. 113-116). IEEE.
+
+* Yang, Z., & Kohno, T. (2024, February). Parameter fitting approach for the piecewise quadratic neuron model using improved particle swarm optimization framework. In the 12th RIEC International Symposium on Brain Functions and Brain Computer.
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Language: Mandarin Chinese, English, Japanese.
+* Professional Skills:
+  * Programming: C/C++, Verilog, Python, LaTex
+  * Software: Cadence, MATLAB, Modelsim, Labview, ADS, Microsoft Office
+
+Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* (First Place) Yu Xing Cup Embedded System Design Competition, (2018.12). 
+“Design of a multifunctional electronic information card for the elderly based on ARM.”
+* (Third Place) Beijing University Students Integrated Circuit Design Competition, (2019.6). 
+“Simulation and layout design of low-voltage bandgap reference.”
+* (Second Place) I Can Cup Beijing University of Technology Design Competition, (2019.8). 
+“Design of a cattle production monitoring device.”
