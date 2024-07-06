@@ -13,6 +13,8 @@ redirect_from:
 
 <p>My academic journey has been marked by a deep interest in the intersection of electronics and neuroscience. During my undergraduate studies, I developed a solid foundation in electrical engineering principles, which I am now applying to cutting-edge research in neuromorphic engineering. My current work involves exploring novel algorithms and optimization techniques, such as Particle Swarm Optimization (PSO) and Bayesian Optimization, to fine-tune neuron models and improve their performance.</p>
 
+<p>You can find my CV here: <a href="https://azukan.github.io//cv/">Curriculum Vitae</a>.</p>
+
 </div>
 
 
