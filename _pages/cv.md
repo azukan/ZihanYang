@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 Ph.D in Electrical Engineering and Information Systems, The University of Tokyo, 2027 (expected)
+
 M.Eng. in Electrical Engineering and Information Systems, The University of Tokyo, 2024
+
 B.Eng. in Electronic Science and Technology, Beijing University of Technology, 2020
 
 Publications
