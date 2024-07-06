@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Parameter fitting approach for the piecewise quadratic neuron model using improved particle swarm optimization framework ##
-Authors: **Yang, Z.**, & Kohno, T.
+Authors: <ins>Zihan Yang</ins>, & Takashi Kohno
 
 Published in _the 12th RIEC International Symposium on Brain Functions and Brain Computer_, Feb. 2024
 
@@ -22,7 +22,7 @@ References:
 
 ## LSTM-RNN based analog IC automated sizing model for operational amplifier and VCO ##
 
-Authors: **Yang, Z.**, Wang, W., Chen, Z., Fan, Q., & Chen, X.
+Authors: <ins>Zihan Yang</ins>, Wensi Wang, Zhijie Chen, Qianhui Fan, & Xuanchong Chen
 
 Published in _IEEE 5th International Conference on Integrated Circuits and Microsystems_, Oct. 2020
 
