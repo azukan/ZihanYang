@@ -13,11 +13,6 @@ redirect_from:
 
 <p>My academic journey has been marked by a deep interest in the intersection of electronics and neuroscience. During my undergraduate studies, I developed a solid foundation in electrical engineering principles, which I am now applying to cutting-edge research in neuromorphic engineering. My current work involves exploring novel algorithms and optimization techniques, such as Particle Swarm Optimization (PSO) and Bayesian Optimization, to fine-tune neuron models and improve their performance.</p>
 
-<p>I am passionate about pushing the boundaries of what is possible in neuromorphic engineering and am committed to contributing to the advancement of this exciting field. My goal is to develop technologies that not only enhance our understanding of neural processes but also pave the way for practical applications in artificial intelligence and beyond.</p>
-
-<p>You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).</p>
-
-
 </div>
 
 
