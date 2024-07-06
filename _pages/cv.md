@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering and Information Systems, The University of Tokyo, 2027 (expected)
-* M.Eng. in Electrical Engineering and Information Systems, The University of Tokyo, 2024
-* B.Eng. in Electronic Science and Technology, Beijing University of Technology, 2020
+Ph.D in Electrical Engineering and Information Systems, The University of Tokyo, 2027 (expected)
+M.Eng. in Electrical Engineering and Information Systems, The University of Tokyo, 2024
+B.Eng. in Electronic Science and Technology, Beijing University of Technology, 2020
 
 Publications
 ======
-Presentations at International Conferences
 
 * Yang, Z., Wang, W., Chen, Z., Fan, Q., & Chen, X. (2020, October). LSTM-RNN based analog IC automated sizing model for operational amplifier and VCO. In 2020 IEEE 5th International Conference on Integrated Circuits and Microsystems (ICICM) (pp. 113-116). IEEE.
 
