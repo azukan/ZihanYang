@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: justify;">
 
 I am a first-year Ph.D. student in the [Department of Electrical Engineering and Information Systems](https://www.eeis.t.u-tokyo.ac.jp/) at the [Graduate School of Engineering](https://www.t.u-tokyo.ac.jp/soe), [the University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html). My research focuses on developing innovative neuron models that strike a balance between biological fidelity and computational efficiency. Specifically, I am working on creating a mixed-signal neuromorphic chip that leverages these advanced models to enhance computational capabilities in various applications.
 
@@ -18,5 +19,6 @@ When I'm not immersed in research, I enjoy engaging with the academic community,
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+</div>
 
 
