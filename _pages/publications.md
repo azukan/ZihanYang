@@ -6,23 +6,17 @@ author_profile: true
 ---
 
 ## Parameter fitting approach for the piecewise quadratic neuron model using improved particle swarm optimization framework ##
-Authors: <ins>Zihan Yang</ins>, & Takashi Kohno
+Authors: <ins>Zihan Yang</ins> & Takashi Kohno
 
 Published in _the 12th RIEC International Symposium on Brain Functions and Brain Computer_, Feb. 2024
 
 **Abstract:**
-Neurons are a basic unit of the nervous system. Understanding single neurons' dynamical properties and activity patterns is critical to understand the mysteries of the intelligent information processing in the brain. The Piecewise Quadratic Neuron (PQN) model is a spiking neuron model that can be efficiently implemented on digital arithmetic circuits [1]. In addition, this model can precisely reproduce the activities of various neuronal classes. However,  an optimized parameter set has to be found to properly reproduce a target neuronal activity. The parameter space is very high-dimensional, thus many algorithms have been proposed including meta-heuristics. Two hybrid methods between the particle swarm and Bayesian optimization algorithms are proposed in this study. We fitted the two-variable PQN model to Class1 and Class2 neurons with these two methods and compared them with previous studies [2][3]. The results show that our methods surpass them in the best, worst, and average results though longer computing time is required. Finally, we also performed parameter fitting to RS neurons in a three-variable PQN model. One of the two methods obtained stable results without modifying the framework and successfully fitted the spiking characteristics. The results show that our proposed algorithm can successfully fit the spiking characteristics of neurons and shows better results and reliability. In the future, we plan to validate the stability of our algorithm by applying it to more neuron classifications and parameter sets. We will also apply them for parameter fitting to real electrophysiology data. By refining architecture and parallel processing techniques, we expect to handle larger neuron models and datasets to reduce fitting times and increase the practicality for real-world applications. 
-
-References:
-
-[1] Takuya Nanami and Takashi Kohno. “Piecewise quadratic neuron model: A tool for close-to-biology spiking neuronal network simulation on dedicated hardware.” Frontiers in Neuroscience, 16:1069133, 2023.
-[2] Takuya Nanami, Filippo Grassia, and Takashi Kohno. “A parameter optimization method for digital spiking silicon neuron model.” Journal of Robotics, Networking and Artificial Life, 4(1):97–101, 2017.
-[3] Ewandson L Lameu, Neilen P Rasiah, Dinara V Baimoukhametova, Spencer P Loewen, Jaideep S Bains, and Wilten Nicola. “Particle-swarm based modelling reveals two distinct classes of crhpvn neurons.” The Journal of Physiology, 601(15):3151–3171, 2023.
+Neurons are a basic unit of the nervous system. Understanding single neurons' dynamical properties and activity patterns is critical to understand the mysteries of the intelligent information processing in the brain. The Piecewise Quadratic Neuron (PQN) model is a spiking neuron model that can be efficiently implemented on digital arithmetic circuits. In addition, this model can precisely reproduce the activities of various neuronal classes. However,  an optimized parameter set has to be found to properly reproduce a target neuronal activity. The parameter space is very high-dimensional, thus many algorithms have been proposed including meta-heuristics. Two hybrid methods between the particle swarm and Bayesian optimization algorithms are proposed in this study. We fitted the two-variable PQN model to Class1 and Class2 neurons with these two methods and compared them with previous studies. The results show that our methods surpass them in the best, worst, and average results though longer computing time is required. Finally, we also performed parameter fitting to RS neurons in a three-variable PQN model. One of the two methods obtained stable results without modifying the framework and successfully fitted the spiking characteristics. The results show that our proposed algorithm can successfully fit the spiking characteristics of neurons and shows better results and reliability. In the future, we plan to validate the stability of our algorithm by applying it to more neuron classifications and parameter sets. We will also apply them for parameter fitting to real electrophysiology data. By refining architecture and parallel processing techniques, we expect to handle larger neuron models and datasets to reduce fitting times and increase the practicality for real-world applications. 
 
 
 ## LSTM-RNN based analog IC automated sizing model for operational amplifier and VCO ##
 
-Authors: <ins>Zihan Yang</ins>, Wensi Wang, Zhijie Chen, Qianhui Fan, & Xuanchong Chen
+Authors: <ins>Zihan Yang</ins>, Wensi Wang, Zhijie Chen, Qianhui Fan & Xuanchong Chen
 
 Published in _IEEE 5th International Conference on Integrated Circuits and Microsystems_, Oct. 2020
 
